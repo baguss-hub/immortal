@@ -1,2 +1,2 @@
-# immortal
-Ini git kelompok immortal yang aslinya epic
+# IMMORTAL - PWD TI3B
+THIS IS OUR REPO - WELCOME TO OUR REPO
